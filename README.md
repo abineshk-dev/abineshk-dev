@@ -38,7 +38,7 @@
 ## 📦 Notable Projects
 
 ### 📦 SLSTS (Smart Logistics & Shipment Tracking System)
-🔗 https://github.com/abineshk-dev/slsts-backend  
+🔗 https://github.com/abineshk-dev/SLSTS-Micro.git 
 
 Microservices-based logistics platform designed to simulate real-world shipment tracking systems.
 
